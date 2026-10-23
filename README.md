@@ -1,2 +1,7 @@
-# Ing_civ_Telematica-archivos
-Este repositorio sera importante para guardar proyectos, tareas, presentacion, etc de mi paso por la carrera de Ingenieria Civil Telematica desde el año 2024 semetre 2.
+# Repositorio para mis cosas privadas relativamente XDDD porque esta para quien quiera verlo
+
+
+Por el momento tengo los **mapas y skin del Osu, Terraria Calamity pero ya murio, imagen clave**
+
+
+Proximamente agregar idealmente proyectos o planificaciones de ese estilo para tener un orden githubiano.
